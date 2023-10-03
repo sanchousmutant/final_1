@@ -24,5 +24,5 @@
 ![](схема.jpg)
 
 ### Код
-
+::: code language="csharp" source="Task/Program.cs" :::
 ![](код.JPG)
